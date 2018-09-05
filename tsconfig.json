@@ -10,6 +10,7 @@
         "sourceMap": true,
         "noImplicitAny": true,
         "declaration": true,
+        "declarationMap": true,
         "lib": ["es6"]
     },
     "exclude": [
